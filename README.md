@@ -9,21 +9,27 @@
 </p>
 
 <p align="center">
-  A professional-grade automated data analysis dashboard built with Streamlit.
+  A professional-grade automated data analysis dashboard built with Streamlit.<br/>
   Upload any CSV and instantly get summary statistics, correlation analysis, trend detection, outlier detection, and a full EDA report — all in one app.
+</p>
+
+<p align="center">
+  <a href="https://datalensepro-vwy6hzoztpse8atseejstb.streamlit.app/" target="_blank">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" alt="Open in Streamlit" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Live Demo
 
-👉 **[Try it on Streamlit Cloud]([https://your-app-url.streamlit.app](https://datalensepro-vwy6hzoztpse8atseejstb.streamlit.app/)** *
+👉 **[https://datalensepro-vwy6hzoztpse8atseejstb.streamlit.app/](https://datalensepro-vwy6hzoztpse8atseejstb.streamlit.app/)**
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-> Add screenshots of your deployed app here.
+![DataLens Pro — Automated Data Analysis Engine](project.png)
 
 ---
 
@@ -56,6 +62,7 @@
 DataLensPro/
 ├── app.py            ← Entire application (single file)
 ├── requirements.txt  ← Python dependencies
+├── project.png       ← App screenshot
 └── README.md
 ```
 
@@ -123,12 +130,6 @@ scipy>=1.11.0
 3. Connect your GitHub repo
 4. Set **Main file path** to `app.py`
 5. Click **Deploy**
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
 
 ---
 
