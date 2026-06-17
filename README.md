@@ -17,7 +17,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[Try it on Streamlit Cloud](https://your-app-url.streamlit.app)** *(replace with your deployed URL)*
+👉 **[Try it on Streamlit Cloud]([https://your-app-url.streamlit.app](https://datalensepro-vwy6hzoztpse8atseejstb.streamlit.app/)** *
 
 ---
 
